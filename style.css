@@ -1,0 +1,16 @@
+h1 {
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+}
+h4{margin: 0 auto; text-align: center;}
+
+.row{  
+    width: 100vw;
+    height: 100px;
+   }
+
+#one{background-color:yellowgreen; width: 50vw; float: left;height: 100%;} 
+#two{background-color: whitesmoke; width: 50vw; float: left;height: 100%;} 
+
+#qtr{width: 25vw; float: left;height: 100%;}
